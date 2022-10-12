@@ -83,7 +83,7 @@ namespace TpDevice
                     {
                         if (!lastWireframed.isWireframe)
                         {
-                            lastWireframed.MakeWireframe();
+                            lastWireframed.ToggleState(lastWireframed.rootComponent);
                         }
 
                         Vector3 pos = wc.playerPosition;

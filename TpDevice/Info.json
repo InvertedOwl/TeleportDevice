@@ -3,7 +3,7 @@
 	"DisplayName": "TpDevice",
 	"Author": "comma",
 	"GameVersion": "0.1.75",
-	"Version": "1.0.0",
+	"Version": "1.0.1",
 	"ManagerVersion": "0.23.5.0",
 	"EntryMethod": "TpDevice.Main.Load"
 }
